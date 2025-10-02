@@ -1,0 +1,4 @@
+# PostgreSQL database driver
+# Install with: uv pip install -r requirements-postgres.txt
+
+psycopg2-binary==2.9.7

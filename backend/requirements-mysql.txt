@@ -1,0 +1,4 @@
+# MySQL database driver
+# Install with: uv pip install -r requirements-mysql.txt
+
+PyMySQL==1.1.0
