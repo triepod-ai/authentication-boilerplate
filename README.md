@@ -83,6 +83,21 @@ authentication-boilerplate/
 └── README.md
 ```
 
+## Development Approach
+
+This repository represents a curated boilerplate extracted and sanitized
+from private production implementations. The single/minimal commit history
+reflects:
+
+- **Extraction & Sanitization**: Production code adapted for public use
+- **Security-First**: All proprietary business logic and credentials removed
+- **Pattern Focus**: Emphasis on reusable patterns vs. specific features
+
+For iterative development history, see active projects:
+- [mcp-server-qdrant-enhanced](https://github.com/triepod-ai/mcp-server-qdrant-enhanced) - 88+ commits
+- [inspector-assessment](https://github.com/triepod-ai/inspector) - 1,612+ commits
+- [chroma-mcp](https://github.com/triepod-ai/chroma-mcp) - 63+ commits
+
 ## Quick Start
 
 ### Automated Setup (Recommended)
