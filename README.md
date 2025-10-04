@@ -1,5 +1,26 @@
 # Authentication Boilerplate
 
+## ⚠️ Important Notice
+
+**This repository is for demonstration purposes only.**
+
+This authentication boilerplate has been extracted from private production repositories to demonstrate architectural patterns and best practices. All sensitive implementation details, proprietary business logic, and confidential information have been removed or sanitized.
+
+**Purpose:**
+- Demonstrate authentication system architecture patterns used in production environments
+- Provide educational reference for secure authentication implementation
+- Showcase integration patterns between Flask backend and React frontend
+- Share proven patterns while maintaining privacy of production systems
+
+**What this is NOT:**
+- Not a copy of any production system
+- Not intended to expose proprietary or confidential code
+- Not a security risk or leak of private repositories
+
+This repository serves as a pattern reference extracted and adapted from real-world production systems, modified specifically for public demonstration and educational purposes.
+
+---
+
 A comprehensive, production-ready authentication system for Flask + React applications.
 
 ## Features
